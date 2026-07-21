@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello! 
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTRvNXJkZ2VpZHpmNHM3NXFrZWdlcjZuYWx6MGllNzZ3bGZjcHgzeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pWLSXjkAv1c1gwCB4E/giphy.gif" width="300" />
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fmikejordan1213@gmail.com) 
@@ -10,16 +11,7 @@
 ![](https://streak-stats.demolab.com/?user=mjfernandez02&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mjfernandez02&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mjfernandez02&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mjfernandez02&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=mjfernandez02&icon=3&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
