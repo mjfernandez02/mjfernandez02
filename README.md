@@ -1,7 +1,7 @@
 <h2>
   Hello!
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTRvNXJkZ2VpZHpmNHM3NXFrZWdlcjZuYWx6MGllNzZ3bGZjcHgzeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pWLSXjkAv1c1gwCB4E/giphy.gif"
-       width="40px"
+       width="100px"
        alt="wave gif">
 </h2>
 
