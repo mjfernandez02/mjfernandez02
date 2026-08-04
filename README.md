@@ -1,8 +1,8 @@
-<h2>
+<div style="text-align: center;">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTRvNXJkZ2VpZHpmNHM3NXFrZWdlcjZuYWx6MGllNzZ3bGZjcHgzeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pWLSXjkAv1c1gwCB4E/giphy.gif"
        width="200px"
        alt="wave gif">
-</h2>
+</div>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fmikejordan1213@gmail.com) 
